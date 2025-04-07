@@ -23,10 +23,6 @@ A simple Android task management application that allows users to add, view, edi
 - LiveData  
 - ViewModel
 
-## Screenshots
-
-(Add screenshots here if needed)
-
 ## Installation
 
 1. Clone the repository or download the ZIP  
@@ -63,17 +59,3 @@ app/
 - UI is updated reactively using LiveData observers.
 - User input is validated and persisted in the database.
 
-## Requirements
-
-- Android Studio Electric Eel or later  
-- Android SDK 33 or later  
-- Minimum API level 24 (Android 7.0)
-
-## Acknowledgements
-
-- This project was created for the **SIT305-4.1P** assignment at Deakin University.
-- Developed by Nilu Crowe.
-
-## License
-
-This project is for academic use only. Not for commercial redistribution.
