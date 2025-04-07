@@ -31,26 +31,6 @@ A simple Android task management application that allows users to add, view, edi
 4. Connect an Android device or launch an emulator  
 5. Click **Run** ▶️ to build and install the app
 
-## Project Structure
-
-```
-app/
-├── java/com/example/taskmanager/
-│   ├── MainActivity.java
-│   ├── AddTaskActivity.java
-│   ├── EditTaskActivity.java
-│   ├── Task.java
-│   ├── TaskDao.java
-│   ├── TaskDatabase.java
-│   ├── TaskRepository.java
-│   ├── TaskViewModel.java
-│   └── TaskAdapter.java
-├── res/
-│   ├── layout/
-│   └── values/
-└── AndroidManifest.xml
-```
-
 ## How It Works
 
 - The app uses an MVVM architecture to separate logic from UI.
